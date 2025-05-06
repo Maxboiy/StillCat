@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.4204826"
+     inkscape:cx="569.58362"
+     inkscape:cy="555.3143"
+     inkscape:window-width="1920"
+     inkscape:window-height="1128"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="439.49685"
+       y="387.36182"
+       width="1777.7471"
+       height="303.47384"
+       id="rect31215" />
+    <rect
+       x="439.49685"
+       y="387.36182"
+       width="1777.7471"
+       height="303.47384"
+       id="rect32935" />
+    <rect
+       x="439.49685"
+       y="387.36182"
+       width="1777.7471"
+       height="303.47384"
+       id="rect34397" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect111"
+       style="fill:#171717;fill-opacity:1;stroke:#efefef;stroke-width:1.965;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 39.523582,88.701351 0.0028,106.609339 c 7.597339,-5.76082 14.905941,-10.43647 22.294764,-14.11748 l 13.811529,32.76341 22.209037,-9.63438 -15.806296,-30.65984 c 8.032189,-2.0298 16.494126,-3.09968 25.789124,-3.29695 z"
+       sodipodi:nodetypes="cccccccc" />
+    <text
+       xml:space="preserve"
+       transform="matrix(7.0184312,0,0,7.0184312,-2994.0909,-2642.441)"
+       id="text31213"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tuffy;-inkscape-font-specification:Tuffy;letter-spacing:0px;white-space:pre;shape-inside:url(#rect31215);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="439.49609"
+         y="397.97836"
+         id="tspan348"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Tuffy Bold'"
+           id="tspan346">StillCat</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(1.6994515,0,0,1.6994515,-632.80144,-506.59021)"
+       id="text32933"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tuffy;-inkscape-font-specification:Tuffy;letter-spacing:0px;white-space:pre;shape-inside:url(#rect32935);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="439.49609"
+         y="397.97836"
+         id="tspan352"><tspan
+           style="font-weight:500;-inkscape-font-specification:'Tuffy Medium'"
+           id="tspan350">Cats for when your not active</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.33645969,0,0,0.33645969,-34.074412,48.112518)"
+       id="text34395"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tuffy;-inkscape-font-specification:Tuffy;letter-spacing:0px;white-space:pre;shape-inside:url(#rect34397);opacity:0.0880462;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="439.49609"
+         y="397.97836"
+         id="tspan356"><tspan
+           style="font-weight:500;-inkscape-font-specification:'Tuffy Medium'"
+           id="tspan354">I know this logo is only a mouse cursor but I can't draw a cat  :ashbaby:</tspan></tspan></text>
+  </g>
+</svg>
