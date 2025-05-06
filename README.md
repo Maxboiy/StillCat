@@ -16,4 +16,5 @@ This is done by getting the mouse coordinates and comparing them to the last kno
 "stand_still" is the amount of time (in seconds) before the program opens the cat pictures 
  10 = Default
 
+#
  a MBD project | CN: "an innoncent project" | Last updated: 06D-05M-2025 for V0.1 |
