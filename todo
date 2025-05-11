@@ -1,0 +1,25 @@
+It works
+
+Program itself
+ - self-destruction date for program (With a start and end date)
+ - Improve cat collection before release
+
+JSON configs
+ - Finish working on a (for now) Terminal JSON editor
+
+add a custom program for displaying the pictures
+ - make it so you have to press it 10 times to close (Recommended by friend) (I have not worked on this feature and I am waiting for maybe a future release)
+
+The done list:
+ Program itself:
+  - (Done) set a number of how many cats should be deployed
+  - (Done) custom file directory?
+  - (Done) set a amount of time for how long the cursor should be still before opening the program
+  - (Done) Add a kill switch for disabling the script
+  - (Done) Instead of a static Stand_still number make it a random one
+  - (Done) Have a inital waiting time before the stand_still number will be used
+  - (Done) Have a random image pop-up out of nowhere instead of a static/random waiting time
+ JSON configs:
+  - (Done) Set random number range (Default is normally between 2-100)
+  - (Done) Prototype should work with JSONs EXECPT for the kill switch!
+ 

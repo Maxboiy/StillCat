@@ -1,9 +1,16 @@
 import json
 
+# This is the test file to check if I can make JSON files 
+# This program can also be used to fix your JSON file if needed
+
 max_deployed_cats = 2
 custom_file_dir = None
 stand_still = 10
-# stand_still_wait = 0.5
+random_stand_still = False
+begin_range = 1
+end_range = 5
+initial_wait_time = 0
+enable_random_deployment = False
 
 start_date = None
 end_date = None
@@ -14,15 +21,23 @@ writeplz = {
             "max_deployed_cats": max_deployed_cats,
             "custom_file_dir": custom_file_dir,
             "stand_still": stand_still,
-            # "stand_still_number": stand_still_wait,
+            "initial_wait_time": initial_wait_time,
+            "enable_random_deployment": enable_random_deployment
         }
     ],
-    "activation_period": [ # WIP!!!
+    "random_time_stuff": [
         {
-            "start_date": start_date,
-            "end_date": end_date,
+            "random_stand_still": random_stand_still,
+            "begin_range": begin_range,
+            "end_range": end_range,
         }
-    ] 
+    ]
+    # "activation_period": [ # WIP!!!
+    #     {
+    #         "start_date": start_date,
+    #         "end_date": end_date,
+    #     }
+    # ] 
 }
 
 with open("config.json", "w") as f:

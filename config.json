@@ -1,1 +1,1 @@
-{"config": [{"max_deployed_cats": 2, "custom_file_dir": null, "stand_still": 5}]}
+{"config": [{"max_deployed_cats": 9999999, "custom_file_dir": null, "stand_still": 10, "initial_wait_time": false, "enable_random_deployment": false}], "random_time_stuff": [{"random_stand_still": false, "begin_range": 1, "end_range": 5}]}
