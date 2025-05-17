@@ -1,4 +1,4 @@
-![Epic looking logo fr fr](Other_stuff/logo_but_smaller.png)
+![Epic looking logo fr fr](Assets/logo_but_smaller.png)
 
 # Before you start!
 While testing the compiled programs it appears that it is not stable! 
