@@ -1,8 +1,11 @@
 It works
 
+For version v1.0
+ - Have an stable built and a non-verbose version
+ - The if deployed_cats == X then send POST request or error pop-up
+
 Program itself
  - self-destruction date for program (With a start and end date)
- - Improve cat collection before release
 
 JSON configs
  - Finish working on a (for now) Terminal JSON editor
@@ -22,4 +25,5 @@ The done list:
  JSON configs:
   - (Done) Set random number range (Default is normally between 2-100)
   - (Done) Prototype should work with JSONs EXECPT for the kill switch!
+  - (Done) Improve cat collection before release
  
