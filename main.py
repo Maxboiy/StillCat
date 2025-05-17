@@ -97,7 +97,7 @@ while True:
         print(stand_still) # How long the mouse has been at these coordinates
     
     # The keybind to terminate this program
-    if keyboard.is_pressed("ctrl+k+l"):
+    if keyboard.is_pressed("ctrl+k"):
         print("Keybind pressed")
         messagebox.showinfo("StillCat", "The deployed cats have been terminated! Script has stopped\n Press OK to close this program")
         break # Also for some weird reason after pressing this keybind the console clears itself?? 
