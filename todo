@@ -6,8 +6,13 @@ For version v1.0
 
 Program itself
  - self-destruction date for program (With a start and end date)
+ - Open up random cat facts in message boxes (This feature can most likely not be enabled if the other features are running!)
 
 JSON configs
+ - Custom cat facts messages and if you want to disable/enable certain ones
+ - Max cat facts boxes allowed
+ - Cat facts should probably also work with the random wait and static wait function
+
  - Finish working on a (for now) Terminal JSON editor
 
 add a custom program for displaying the pictures
